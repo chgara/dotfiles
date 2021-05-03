@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/chgara/.config/coc/extensions/coc-java-data/jdt_ws_f1c86f0391fd70cd1932ac3845617bca/.metadata/.plugins/org.eclipse.jdt.core
+3842426239.index
+4250562868.index
+2248842302.index

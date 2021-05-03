@@ -1,0 +1,5 @@
+{
+  "L2hvbWUvY2hnYXJhLy5jb25maWcvbmVvZmV0Y2g=": [
+    "is fixes display issues in some terminal emulators.## Default:  'off'# Values:   'on', 'off'# Flag:     --loopimage_loop=\"off\"# Thumbnail directory## Default: '~/.cache/thumbnails/neofetch'# Values:  'dir'thumbnail_dir=\"${XDG_CACHE_HOME:-${HOME}/.cache}/thumbnails/neofetch\"# Crop mode## Default:  'normal'# Values:   'normal', 'fit', 'fill'# Flag:     --crop_mode## See this wiki page to learn about the fit and fill options.# https://github.com/dylanaraps/neofetch/wiki/What-is-Waifu-Crop%3Fcrop_mode=\"normal\"# Crop offset# Note: Only affectslues:   'northwest', 'north', 'northeast', 'west', 'center'#  t'# Flag:     --crop_offsetcrop_offset=\"center\"# Image sizelt.## Default: 'auto'# Values:  'auto', '00px', '00%', 'nonethe w3m backend.## Default: '0'# Values:  'px'# Flags:   --"
+  ]
+}

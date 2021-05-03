@@ -1,0 +1,34 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "scss",
+    "markdown",
+    "javascript",
+    "typescript",
+    "python",
+    "tsx",
+    "jsx",
+    "graphql",
+    "html",
+    "yaml",
+    "json"
+  ],
+  "snippets.ultisnips.directories": [
+    "UltiSnips",
+    "~/.config/nvim/utils/snips"
+  ],
+  "java.home": "/usr/lib/jvm/java-15-openjdk/",
+  "languageserver": {
+    "dockerfile": {
+      "command": "docker-langserver",
+      "filetypes": [
+        "dockerfile"
+      ],
+      "args": [
+        "--stdio"
+      ]
+    }
+  },
+  "explorer.icon.enableVimDevicons": true,
+}
+
