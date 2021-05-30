@@ -29,9 +29,6 @@ call plug#begin('~/.config/nvim/plugged')
         Plug 'alvan/vim-closetag'
         " Ranger
         Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
-        " Fzf
-        Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
-        Plug 'junegunn/fzf.vim'
         " Prettier
         Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
  	Plug 'cakebaker/scss-syntax.vim'

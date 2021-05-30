@@ -17,5 +17,8 @@
 !qtile
 !openbox
 !tint2
+!i3
+!pulse
+!polybar
 !dwm
 !dwmblocks
