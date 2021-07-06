@@ -10,6 +10,7 @@ call plug#begin('~/.config/nvim/plugged')
     else
         " Syntax support
         Plug 'sheerun/vim-polyglot'
+        Plug 'Brettm12345/moonlight.vim'
         " Autopairs
 	Plug 'mattn/emmet-vim'
         Plug 'jiangmiao/auto-pairs'

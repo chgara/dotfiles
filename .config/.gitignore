@@ -18,7 +18,10 @@
 !openbox
 !tint2
 !i3
+!Hyper
 !pulse
 !polybar
 !dwm
 !dwmblocks
+!picom.conf
+!wezterm

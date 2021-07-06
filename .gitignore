@@ -20,3 +20,7 @@
 !.config
 !.local
 !.vimrc
+!.hyper.js
+!.p10k.zsh
+!.zshrc.pre-oh-my-zsh
+!.oh-my-zsh
